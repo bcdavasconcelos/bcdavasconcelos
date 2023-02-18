@@ -48,4 +48,4 @@ https://github.com/bcdavasconcelos/TLG-Bibliography
 - 📫 Reach me via [e-mail](mailto:bernardovasconcelos@gmail.com)
 - 📫 Medium: [@bcdavasconcelos](https://medium.com/@bcdavasconcelos)
 - 📫 Twitter: [@bcdavasconcelos](https://twitter.com/bcdavasconcelos)
-- 📫 On-line forums: [DEVONthink](https://discourse.devontechnologies.com/u/bernardo_v/summary), [Scrivener](https://forum.literatureandlatte.com/u/bernardo_vasconcelos/summary), [Tinderbox](https://forum.eastgate.com/u/bernard-0/summary), [Keyboard Maestro](https://forum.keyboardmaestro.com/u/b_vasconcelos/summary).
+- 📫 On-line forums: [DEVONthink](https://discourse.devontechnologies.com/u/bernardo_v/summary), [Scrivener](https://forum.literatureandlatte.com/u/bernardo_vasconcelos/summary), [Tinderbox](https://forum.eastgate.com/u/bernard-0/summary), [Keyboard Maestro](https://forum.keyboardmaestro.com/u/b_vasconcelos/summary). 
