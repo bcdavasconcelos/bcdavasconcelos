@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I received a Ph.D. *cum laude* in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
+- 🔭 I received a Ph.D. in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
 - 🤔 I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
 - 🤔 I also take an interest in digital philology & the greek language.
 - 🌱 I take time, whenever possible, to share many of the macros, workflows, and scripts I developed in my research.
