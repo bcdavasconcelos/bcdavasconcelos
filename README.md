@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I received a Ph.D. in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
-- 🤔 I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
-- 🤔 I also take an interest in digital philology & the greek language.
+- 🌱 I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
+- 🌱 I'm also interested in digital philology, digital humanities & the greek language.
 - 🌱 I take time, whenever possible, to share many of the macros, workflows, and scripts I developed in my research.
 - 🌱 I am responsible for the *Digital Guide of the Tropics Classicist* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language.
 - 🌱 I am also responsible for the website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
