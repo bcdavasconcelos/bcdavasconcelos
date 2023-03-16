@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi there 
 
-- 🔭 I received a Ph.D. in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
-- 🌱 I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
-- 🌱 I'm also interested in digital philology, digital humanities & the greek language.
-- 🌱 I take time, whenever possible, to share many of the macros, workflows, and scripts I developed in my research.
-- 🌱 I am responsible for the *Digital Guide of the Tropics Classicist* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language.
-- 🌱 I am also responsible for the website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
-- 👯 I’m available for collaborating on projects envolving academic-oriented software such as [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Bookends](https://www.sonnysoftware.com/bookends-for-mac), [DEVONthink](https://www.devontechnologies.com/apps/devonthink), [Pandoc](https://pandoc.org/MANUAL.html), [Tinderbox](http://www.eastgate.com), [Atlas.ti](https://atlasti.com/).
-- 👯 I’m available for collaborating on projects envolving macOS scripting (Applescript and Ruby) & automation software ([Alfred](https://www.alfredapp.com), [Keyboard Maestro](https://www.keyboardmaestro.com/main/)).
-- 💬 Ask me about anything related to these software.
-- 💬 Ask me about academic research on ancient philosophy.
-- 💬 Ask me about academic research on Plato & Aristotle.
-- 💬 Ask me about integral theory/psychology, insight meditation (*a.k.a.* *Vipassana*) & Theravada Buddhism. 
-- 💬 If I don't know the answer, I can at least in all likelihood point you in the right direction.
-- I have published... 
+- I received a Ph.D. in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
+- I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
+- I'm also interested in digital philology, digital humanities & the greek language.
+- I take time, whenever possible, to share many of the macros, workflows, and scripts I developed in my research.
+- I am responsible for the *Digital Guide of the Tropics Classicist* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language.
+- I am also responsible for the website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
+- I’m available for collaborating on projects envolving macOS scripting (Applescript and Ruby) & automation software ([Alfred](https://www.alfredapp.com), [Keyboard Maestro](https://www.keyboardmaestro.com/main/)).
+- I’m available for collaborating on projects envolving academic-oriented software such as [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Bookends](https://www.sonnysoftware.com/bookends-for-mac), [DEVONthink](https://www.devontechnologies.com/apps/devonthink), [Pandoc](https://pandoc.org/MANUAL.html), [Tinderbox](http://www.eastgate.com), [Atlas.ti](https://atlasti.com/).
+- Ask me about anything related to these software.
+- Ask me about academic research on ancient philosophy.
+- Ask me about academic research on Plato & Aristotle.
+- Ask me about integral theory/psychology, insight meditation (*a.k.a.* *Vipassana*) & Theravada Buddhism. 
+- If I don't know the answer, I can at least in all likelihood point you in the right direction.
+- I have shared... 
   - 📖 [Aristotle Bib](https://github.com/bcdavasconcelos/Aristotle) is a bibliography with all the principal critical editions of his works and links to other resources online.
   - 📖 [Aristotle, Phys III 1-3](https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/) is a dynamic outline of Physics III 1-3 using the greek text of Ross (1936) and the translation of Joe Sachs (1995).
   - 📖 [Corpora](https://github.com/bcdavasconcelos/Corpora) contains an Alfred workflow and a Keyboard Maestro macro for fast access to Perseus Catalog, Thesaurus Linguae Graecae, and LOEB Classical Library.
