@@ -1,19 +1,14 @@
 ### Hi there 
 
-- I received a Ph.D. in Philosophy. I researched the ancient greek value term *sophrosyne* in Homer, Plato, and Aristotle.
-- I’m primarily interested in Aristotle, Plato, and ancient philosophy in general. 
-- I'm also interested in digital philology, digital humanities & the greek language.
-- I take time, whenever possible, to share many of the macros, workflows, and scripts I developed in my research.
-- I am responsible for the *Digital Guide of the Tropics Classicist* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language.
-- I am also responsible for the website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
-- I’m available for collaborating on projects envolving macOS scripting (Applescript and Ruby) & automation software ([Alfred](https://www.alfredapp.com), [Keyboard Maestro](https://www.keyboardmaestro.com/main/)).
-- I’m available for collaborating on projects envolving academic-oriented software such as [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Bookends](https://www.sonnysoftware.com/bookends-for-mac), [DEVONthink](https://www.devontechnologies.com/apps/devonthink), [Pandoc](https://pandoc.org/MANUAL.html), [Tinderbox](http://www.eastgate.com), [Atlas.ti](https://atlasti.com/).
-- Ask me about anything related to these software.
-- Ask me about academic research on ancient philosophy.
-- Ask me about academic research on Plato & Aristotle.
-- Ask me about integral theory/psychology, insight meditation (*a.k.a.* *Vipassana*) & Theravada Buddhism. 
-- If I don't know the answer, I can at least in all likelihood point you in the right direction.
-- I have shared... 
+- I have a Doctorate and a Master's degree in Philosophy. 
+- So far, my research has been focus on the concept of *sophrosyne* in Homer, Plato, and Aristotle.
+- I'm also interested in ancient philosophy in general, political science, the greek language, digital philology, and the digital humanities more broadly.
+- I am keen to share macros, workflows, and scripts I developed in my research. Part of this effort has been documented in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
+- I also have a life long interest in integral theory/psychology, contemplative practice (especially within the Theravada tradition) and the great religous traditions in general.
+- Some of my projects...
+  - [🌐📚 Cite Tools](https://bcdavasconcelos.github.io/citetools/) - This extension introduces advanced bibliography features to Pandoc and Quarto's Citeproc environment. It bundles several Lua filters to address complex bibliography demands while keeping the output consistent across all formats (`LaTeX`, `DOCX`, `HTML`, and so on).
+  - [📚 Cite Field](https://github.com/bcdavasconcelos/cite-field) - Lua filter for Pandoc and Quarto that allows printing any field of a bibliographic entry using `[@Citekey]{.csl_field}` as in `[@Citekey]{.author}`.
+  - 🌐 Website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
   - 📖 [Aristotle Bib](https://github.com/bcdavasconcelos/Aristotle) is a bibliography with all the principal critical editions of his works and links to other resources online.
   - 📖 [Aristotle, Phys III 1-3](https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/) is a dynamic outline of Physics III 1-3 using the greek text of Ross (1936) and the translation of Joe Sachs (1995).
   - 📖 [Corpora](https://github.com/bcdavasconcelos/Corpora) contains an Alfred workflow and a Keyboard Maestro macro for fast access to Perseus Catalog, Thesaurus Linguae Graecae, and LOEB Classical Library.
@@ -33,6 +28,10 @@
   - 🗄️ [DEVONthink 3 Resources](https://github.com/bcdavasconcelos/DEVONthink-3) contains Applescripts, smart rules, and templates for DEVONthink 3
   - 🗄️ [Themes](https://github.com/bcdavasconcelos/Themes) contains Themes I made or adapted for Alfred, Connected Text, Folding Text, Golden Dict, Obsidian, OmniOutliner, Outlinely, Scapple, Scrivener, Tinderbox, and Ulysses.
   - 🗄️ [BBEdit](https://github.com/bcdavasconcelos/BBEdit) Some of my BBEdit goodies.
+- 📫 Reach me via [e-mail](mailto:bernardovasconcelos@gmail.com)
+- 📫 Medium: [@bcdavasconcelos](https://medium.com/@bcdavasconcelos)
+- 📫 Twitter: [@bcdavasconcelos](https://twitter.com/bcdavasconcelos)
+- 📫 On-line forums: [DEVONthink](https://discourse.devontechnologies.com/u/bernardo_v/summary), [Scrivener](https://forum.literatureandlatte.com/u/bernardo_vasconcelos/summary), [Tinderbox](https://forum.eastgate.com/u/bernard-0/summary), [Keyboard Maestro](https://forum.keyboardmaestro.com/u/b_vasconcelos/summary). 
     
     
 <!-- 
@@ -45,7 +44,3 @@ https://github.com/bcdavasconcelos/TLG-Bibliography
 [Obsidian](https://forum.obsidian.md/u/bernardo_v/summary) 
 -->
 
-- 📫 Reach me via [e-mail](mailto:bernardovasconcelos@gmail.com)
-- 📫 Medium: [@bcdavasconcelos](https://medium.com/@bcdavasconcelos)
-- 📫 Twitter: [@bcdavasconcelos](https://twitter.com/bcdavasconcelos)
-- 📫 On-line forums: [DEVONthink](https://discourse.devontechnologies.com/u/bernardo_v/summary), [Scrivener](https://forum.literatureandlatte.com/u/bernardo_vasconcelos/summary), [Tinderbox](https://forum.eastgate.com/u/bernard-0/summary), [Keyboard Maestro](https://forum.keyboardmaestro.com/u/b_vasconcelos/summary). 
