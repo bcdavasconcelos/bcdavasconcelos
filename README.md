@@ -4,7 +4,7 @@
 - So far, my research has been focus on the concept of *sophrosyne* in Homer, Plato, and Aristotle.
 - I'm also interested in ancient philosophy in general, political science, the greek language, digital philology, and the digital humanities more broadly.
 - I am keen to share macros, workflows, and scripts I developed in my research. Part of this effort has been documented in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
-- I also have a life long interest in integral theory/psychology, contemplative practice (especially within the Theravada tradition) and the great religous traditions in general.
+- I also have a life long interest in integral theory/psychology, contemplative practice (especially within the Theravada tradition) and the great religious traditions in general.
 - Some of my projects...
   - [🌐📚 Cite Tools](https://bcdavasconcelos.github.io/citetools/) - This extension introduces advanced bibliography features to Pandoc and Quarto's Citeproc environment. It bundles several Lua filters to address complex bibliography demands while keeping the output consistent across all formats (`LaTeX`, `DOCX`, `HTML`, and so on).
   - [📚 Cite Field](https://github.com/bcdavasconcelos/cite-field) - Lua filter for Pandoc and Quarto that allows printing any field of a bibliographic entry using `[@Citekey]{.csl_field}` as in `[@Citekey]{.author}`.
