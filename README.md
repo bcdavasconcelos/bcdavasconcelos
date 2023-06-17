@@ -1,15 +1,16 @@
 ### Hi there 
 
 - I have a Doctorate and a Master's degree in Philosophy. 
-- So far, my research has been focus on the concept of *sophrosyne* in Homer, Plato, and Aristotle.
-- I'm also interested in ancient philosophy in general, political science, the greek language, digital philology, and the digital humanities more broadly.
+- So far, my research has been focused on the concept of *sophrosyne* (*self-control*, *moderation*, *sanity*) in Homer, Plato, and Aristotle.
+- I'm also interested in ancient philosophy in general, political science, the Greek language, digital philology, and the digital humanities more broadly.
 - I am keen to share macros, workflows, and scripts I developed in my research. Part of this effort has been documented in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
 - Some of my projects...
-  - [🌐📚 Cite Tools](https://bcdavasconcelos.github.io/citetools/) - This extension introduces advanced bibliography features to Pandoc and Quarto's Citeproc environment. It bundles several Lua filters to address complex bibliography demands while keeping the output consistent across all formats (`LaTeX`, `DOCX`, `HTML`, and so on).
+  - [🚀 ScrivQ](https://github.com/bcdavasconcelos/ScrivQ) - Template Scrivener project designed for Quarto and Pandoc that exports multiple files, handles cross-references, manages bibliography, and builds complex YAML (it features hundreds of built-in parameters ready to be included/excluded from compile with many useful links to the documentation under document bookmarks). Outputs Books in PDF, HTML, DOCX, and Websites in HTML.
+  - [📚 Cite Tools](https://bcdavasconcelos.github.io/citetools/) - This extension introduces advanced bibliography features to Pandoc and Quarto's Citeproc environment. It bundles several Lua filters to address complex bibliography demands while keeping the output consistent across all formats (`LaTeX`, `DOCX`, `HTML`, and so on).
   - [📚 Cite Field](https://github.com/bcdavasconcelos/cite-field) - Lua filter for Pandoc and Quarto that allows printing any field of a bibliographic entry using `[@Citekey]{.csl_field}` as in `[@Citekey]{.author}`.
-  - 🌐 Website with the work of the literaty critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
+  - 🌐 Website with the work of the literary critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
   - 📖 [Aristotle Bib](https://github.com/bcdavasconcelos/Aristotle) is a bibliography with all the principal critical editions of his works and links to other resources online.
-  - 📖 [Aristotle, Phys III 1-3](https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/) is a dynamic outline of Physics III 1-3 using the greek text of Ross (1936) and the translation of Joe Sachs (1995).
+  - 📖 [Aristotle, Phys III 1-3](https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/) is a dynamic outline of Physics III 1-3 using the Greek text of Ross (1936) and the translation of Joe Sachs (1995).
   - 📖 [Corpora](https://github.com/bcdavasconcelos/Corpora) contains an Alfred workflow and a Keyboard Maestro macro for fast access to Perseus Catalog, Thesaurus Linguae Graecae, and LOEB Classical Library.
   - 📖 [Greek Authors and Works in TLG](https://github.com/bcdavasconcelos/Greek-Authors-and-Works-in-TLG) is a list of Greek authors and works in TLG with links to TLG online, Diogenes and Perseus Catalog.
   - ⚙️ [ABNT-Phi](https://github.com/bcdavasconcelos/ABNT-Phi) is a citation style language file for Zotero/Pandoc following ABNT rules with workarounds for referencing classical works that use abbreviations instead of the usual Author-Year.
