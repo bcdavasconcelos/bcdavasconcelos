@@ -1,14 +1,18 @@
 ### Hi there 
 
-- I have a Doctorate and a Master's degree in Philosophy. 
-- So far, my research has been focused on the concept of *sophrosyne* (*self-control*, *moderation*, *sanity*) in Homer, Plato, and Aristotle.
-- I'm also interested in ancient philosophy in general, political science, the Greek language, digital philology, and the digital humanities more broadly.
-- I am keen to share macros, workflows, and scripts I developed in my research. Part of this effort has been documented in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
+- I teach Philosophy, Human and Social Sciences at _Pontifícia Universidade Católica de Minas Gerais_ (PUC Minas).
+- I have a Doctorate and a Master's degree in Philosophy (UFMG). My research focused on the concept of _sophrosyne_ (self-control, sanity, moderation) in Homer, Plato, and Aristotle.
+- I'm interested in ancient philosophy, political science, international relations, the Greek language, digital philology, and the digital humanities.
+- I'm keen to share tools I developed as part of my research. This resulted in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
+
+
+---
+
 - Some of my projects...
+  - 🌐 Website with the work of the literary critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br), available in HTML/PDF.
   - [🚀 ScrivQ](https://github.com/bcdavasconcelos/ScrivQ) - Template Scrivener project designed for Quarto and Pandoc that exports multiple files, handles cross-references, manages bibliography, and builds complex YAML (it features hundreds of built-in parameters ready to be included/excluded from compile with many useful links to the documentation). Outputs Books in PDF, HTML, DOCX, and Websites in HTML.
   - [📚 Cite Tools](https://bcdavasconcelos.github.io/citetools/) - This extension introduces advanced bibliography features to Pandoc and Quarto's Citeproc environment. It bundles several Lua filters to address complex bibliography demands while keeping the output consistent across all formats (`LaTeX`, `DOCX`, `HTML`, and so on).
   - [📚 Cite Field](https://github.com/bcdavasconcelos/cite-field) - Lua filter for Pandoc and Quarto that allows printing any field of a bibliographic entry using `[@Citekey]{.csl_field}` as in `[@Citekey]{.author}`.
-  - 🌐 Website with the work of the literary critic [Leo Gilson Ribeiro](https://leogilsonribeiro.com.br).
   - 📖 [Aristotle Bib](https://github.com/bcdavasconcelos/Aristotle) is a bibliography with all the principal critical editions of his works and links to other resources online.
   - 📖 [Aristotle, Phys III 1-3](https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/) is a dynamic outline of Physics III 1-3 using the Greek text of Ross (1936) and the translation of Joe Sachs (1995).
   - 📖 [Corpora](https://github.com/bcdavasconcelos/Corpora) contains an Alfred workflow and a Keyboard Maestro macro for fast access to Perseus Catalog, Thesaurus Linguae Graecae, and LOEB Classical Library.
@@ -28,6 +32,8 @@
   - 🗄️ [DEVONthink 3 Resources](https://github.com/bcdavasconcelos/DEVONthink-3) contains Applescripts, smart rules, and templates for DEVONthink 3
   - 🗄️ [Themes](https://github.com/bcdavasconcelos/Themes) contains Themes I made or adapted for Alfred, Connected Text, Folding Text, Golden Dict, Obsidian, OmniOutliner, Outlinely, Scapple, Scrivener, Tinderbox, and Ulysses.
   - 🗄️ [BBEdit](https://github.com/bcdavasconcelos/BBEdit) Some of my BBEdit goodies.
+ 
+  ---
 - 📫 Reach me via [e-mail](mailto:bernardovasconcelos@gmail.com)
 - 📫 Medium: [@bcdavasconcelos](https://medium.com/@bcdavasconcelos)
 - 📫 Twitter: [@bcdavasconcelos](https://twitter.com/bcdavasconcelos)
