@@ -1,8 +1,8 @@
 ### Hi there 
 
 - I teach Philosophy, Human and Social Sciences at _Pontifícia Universidade Católica de Minas Gerais_ (PUC Minas).
-- I have a Doctorate and a Master's degree in Philosophy (UFMG). My research focused on the concept of _sophrosyne_ (self-control, sanity, moderation) in Homer, Plato, and Aristotle.
-- I'm interested in ancient philosophy, political science, international relations, the Greek language, digital philology, and the digital humanities.
+- I have a Doctorate ([Doctoral Thesis](https://repositorio.ufmg.br/handle/1843/79466)) and a Master's degree ([Master's Dissertation](http://hdl.handle.net/1843/BUOS-AQGGGQ)) in Philosophy (UFMG). My research focused on the concept of _sophrosyne_ (self-control, sanity, moderation) in Homer, Plato, and Aristotle.
+- I'm interested in ancient philosophy, political science, international relations, the Greek language, digital philology, and the digital humanities. 
 - I'm keen to share tools I developed as part of my research. This resulted in the *Tropical Classicist's Digital Guide* ([*Guia Digital do Classicista dos Trópicos*](https://gdct.blot.im)), a digital humanities project to divulge resources in the Portuguese language. 
 
 
